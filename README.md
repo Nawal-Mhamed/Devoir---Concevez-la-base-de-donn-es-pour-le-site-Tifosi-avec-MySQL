@@ -21,7 +21,7 @@ Once the installation is done, create at least a root account and use it to logi
 > ```
 > \connect root@localhost
 > ```
-> Then enter your password.
+> Then enter your password if needed.
 
 
 > With XAMPP Shell:
